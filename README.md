@@ -1,6 +1,6 @@
 # Power Bi - All time Movies
  
-Con este informe podemos realizar un viaje a través del tiempo, desde las primeras producciones audiovisuales hace más de 160 años, hasta nuestros días. Podemos analizar varios aspectos de este apasionante mundo mediante las 3 páginas principales que componen el reporte 'Producciones', 'Recaudación USA' y 'Valoraciones':
+Con este informe podemos realizar un viaje a través del tiempo, desde las primeras producciones audiovisuales hace más de 160 años, hasta nuestros días. Podemos analizar varios aspectos de este apasionante mundo mediante las 3 páginas principales que componen el reporte **'Producciones'**, **'Recaudación USA'** y **'Valoraciones'**:
 
   **Página 1** | Inicio:
 
